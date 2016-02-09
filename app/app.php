@@ -43,7 +43,7 @@
         if ($my_rectangle->isSquare()) {
             return "<h1>Congrats it a rectangle good job its area is $area</h1>";
         } else {
-            return "<h1>Yo that ain't a sqaure, YOU A SQUARE.";
+            return "<h1>Yo that ain't a sqaure, YOU A SQUARE.  Your area is $area.";
         }
     });
 
